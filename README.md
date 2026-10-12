@@ -37,13 +37,15 @@ Feature| Description
 
 01 — Main Interface(ENCRYPTION & DECRYPTION)
 
-![Caesar Cipher Tool Main Interface] (caesar_cipher_tool_demo.png)
+![Caesar Cipher Tool Main Interface]
+(caesar_cipher_tool_demo.png)
 
 The interactive terminal interface and available operations.
 
 02 — BRUTE FORCE SHIFTS
 
-![Caesar Cipher Brute-Force All Shifts] (caesar_cipher_demo.png)
+![Caesar Cipher Brute-Force All Shifts]
+(caesar_cipher_demo.png)
 
 Example cipher operations performed in the terminal.
 
