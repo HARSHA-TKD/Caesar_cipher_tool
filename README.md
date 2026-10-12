@@ -33,21 +33,15 @@ Feature| Description
 🛡️ Input validation| Handle invalid shift values and menu choices
 🧪 Automated testing| Test cipher behavior using Python "unittest"
 
-🖥️ Demo
+## 🖥️ Demo Screenshots
 
-01 — Main Interface(ENCRYPTION & DECRYPTION)
+### 🔹 Main Interface
 
-![Caesar Cipher Tool Main Interface]
-(caesar_cipher_tool_demo.png)
+![Caesar Cipher Tool Main Interface](caesar_cipher_tool_demo.png)
 
-The interactive terminal interface and available operations.
+### 🔹 Encryption and Decryption
 
-02 — BRUTE FORCE SHIFTS
-
-![Caesar Cipher Brute-Force All Shifts]
-(caesar_cipher_demo.png)
-
-Example cipher operations performed in the terminal.
+![Caesar Cipher Encryption and Decryption Demo](caesar_cipher_demo.png)
 
 🔍 Example
 
