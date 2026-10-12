@@ -43,7 +43,7 @@ The interactive terminal interface and available operations.
 
 02 — BRUTE FORCE SHIFTS
 
-<[Caesar Cipher Brute-Force All Shifts] (caesar_cipher_demo.png)
+![Caesar Cipher Brute-Force All Shifts] (caesar_cipher_demo.png)
 
 Example cipher operations performed in the terminal.
 
